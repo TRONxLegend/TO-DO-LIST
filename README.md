@@ -46,6 +46,4 @@ A simple and intuitive web application to manage your daily tasks.
 
 This project is licensed under the MIT License.
 
----
 
-Feel free to customize this template to better fit the specifics of your project.
