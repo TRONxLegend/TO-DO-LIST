@@ -42,8 +42,6 @@ A simple and intuitive web application to manage your daily tasks.
 5. Push to the branch: `git push origin feature-branch`.
 6. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
 
