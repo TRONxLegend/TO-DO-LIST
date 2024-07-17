@@ -1,6 +1,3 @@
-Here's a sample README section for your TO-DO LIST project:
-
----
 
 # TO-DO LIST
 
